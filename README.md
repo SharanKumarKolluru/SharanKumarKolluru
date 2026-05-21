@@ -1,11 +1,11 @@
 ![image](https://user-images.githubusercontent.com/88401843/153305697-6690f566-0d50-4b3d-93bf-d4cef297b059.png)
 # 👋 Hi, I’m @Sharan Kumar Kolluru
-👀 I’m Salesforce Admin + Developer + Release Manager.
-🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+👀 I’m Salesforce Developer & Release Manager
+- 🌱 I’m currently learning Salesforce Agentblazer on Trailhead
+- 💞️ I’m looking to collaborate on Salesforce Development, AI, and Release Management
+- 📫 How to reach me - sharankolluru.one@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 **Trailblazer Profile:** https://www.salesforce.com/trailblazer/sharankumarkolluru
 
@@ -25,15 +25,16 @@
 - **Project Management Tools:** Confluence, Jira, Trello, Asana.
 - **Data Migration Tools:** Salesforce Workbench, Salesforce Data Loader and Dataloader.io
 - **CTI Tools:** DialFire & Talkdesk.
-- **Deployment Tools:** Copado, Devops Center, Change Sets
+- **Deployment Tools:** Copado Metadata Format & Source Format, Devops Center, Gearset, Change Sets
 - **Productivity:** GitHub, Visual Studio Code, MS Office, Draw.io, Canva, Miro, and Documentation.
 
 # Certifications:
-1. Salesforce Associate
-2. Salesforce Administration.
-3. Salesforce Advanced Administration.
-4. Salesforce Platform App Builder.
-5. Salesforce Platform Developer I.
+1. Salesforce Certified Platform Foundations
+2. Salesforce Certified Platform Administrator I
+3. Salesforce Certified Platform Administrator II
+4. Salesforce Certified Platform App Builder
+5. Salesforce Certified Platform Developer I
+6. Copado Certified Copado AI
 
 # TrailHead Superbadges:
 1. Selling with Sales Cloud Specialist
